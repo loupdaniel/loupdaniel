@@ -12,6 +12,7 @@ As a prospective software engineer, I enjoy using my obsessive attention to deta
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
+  
 
 **Talking about Personal Stuffs:**
 
