@@ -10,7 +10,7 @@ I am a university student who loves programming and moving into action to turn m
 
 As a prospective software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/loupdaniel/loupdaniel/5ad33c456827b0876e47e150ea6431758f36069b/assets/programming.svg" width="408" height="318" />
   
   
 
