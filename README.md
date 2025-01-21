@@ -17,9 +17,9 @@ As a prospective software engineer, I enjoy using my obsessive attention to deta
 ## **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; My interests are startup, machine learning, deep learning, algorithmic trading, and quantitative finance.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I have some familiarity with C, C++, and Python, although I haven't had as much recent experience with them since my high school years.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I excel in environments that foster learning and practical application simultaneously.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1WBOWEYqXWBnWHADaD29y3dBIywj_hdhe/view?usp=sharing)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://www.linkedin.com/in/chanhui-lee/overlay/1737424242714/single-media-viewer/?profileId=ACoAAEIH9VIBaosNmEIi9toOuaC5Qrr222F8C5E)
 
 </br>
 
